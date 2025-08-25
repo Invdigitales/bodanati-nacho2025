@@ -69,7 +69,7 @@ boton.addEventListener("click", () => {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3278.479141363731!2d-58.3902605!3d-34.7435212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcd2a14387e9a7%3A0x704e8b7b753355d5!2sSantuario%20Bas%C3%ADlica%20Sagrada%20Familia%20de%20Nazareth!5e0!3m2!1ses-419!2sar!4v1697052404431!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4792.868535085595!2d-63.66854948591116!3d-31.85031466175081!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95cd27534cead861%3A0xf2970f314b1face9!2sCampo%20Hotel%20Nono%20Luigi!5e0!3m2!1ses!2sar!4v1756124483227!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
         'Podes ampliar el mapa',
         
         
